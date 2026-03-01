@@ -82,8 +82,8 @@ guru-house.mod (roto-disco track) taken from modarchive.org
         THANKS FOR PLAYING JUMBO MARIO!
 ============================================================ 
 
-P.S. Contact me if you - the player - found any easter 
-eggs or bugs.
+
+
 
 
 
